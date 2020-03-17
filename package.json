@@ -1,0 +1,22 @@
+{
+  "name": "front-end-builds",
+  "version": "1.0.0",
+  "description": "Builds for front-end basecode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://AODeagle1@bitbucket.org/zeronetwo/front-end-builds.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/zeronetwo/front-end-builds#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-favicon": "^2.0.1",
+    "path": "^0.12.7"
+  }
+}
